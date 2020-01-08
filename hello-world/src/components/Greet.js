@@ -1,12 +1,12 @@
 import React from 'react'
 
-function Greet()
+/*function Greet()
 {
     return (
-        <div>
-            <h1>Hello Kaustav</h1>
-        </div>
+        <h1>Hello Kaustav</h1>
     );
-}
+}*/
+
+const Greet = () => <h1>Hello Kaustav</h1>
 
 export default Greet

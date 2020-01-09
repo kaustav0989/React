@@ -4,11 +4,13 @@ import './App.css';
 import Greet from './components/Greet'
 import Welcome from './components/Welcome'
 import Hello from './components/Hello'
+import Message from './components/Message'
 
 function App() {
   return (
     <div className="App">
-      <Greet name="Subham" heroName="Batman">
+    <Message />  
+    {/*<Greet name="Subham" heroName="Batman">
         <p>He is a good man</p>
       </Greet>
       <Greet name="Kaustav" heroName="Hero Alam"/>

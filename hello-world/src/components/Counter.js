@@ -1,3 +1,5 @@
+//This is related to understanding of states
+
 import React, { Component } from 'react'
 
 class Counter extends Component {

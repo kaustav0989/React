@@ -1,3 +1,4 @@
 Shortcuts for React :-
 
-rfce, rce 
+rfce - for function components
+rce - for class components

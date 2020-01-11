@@ -30,3 +30,5 @@ class Message extends Component {
 }
 
 export default Message;
+
+//In case of JSX we pass a function as an EventHandler not as a string. 

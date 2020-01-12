@@ -1,3 +1,4 @@
+//This is for eventhandler for binding
 import React, { Component } from 'react'
 
 class EventBind extends Component {

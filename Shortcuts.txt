@@ -2,3 +2,4 @@ Shortcuts for React :-
 
 rfce - for function components
 rce - for class components
+rconst - for constructor
